@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- nice
+- cute
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- talks
+- welocmes
 
 ## Getting started
 
